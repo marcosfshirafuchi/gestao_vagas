@@ -20,7 +20,7 @@ import jakarta.security.auth.message.AuthException;
 @Service
 public class AuthCandidateUseCase {
 
-    @Value("security.token.secret.candidate")
+    @Value("${security.token.secret.candidate}")
     private String secretkey;
 
     @Autowired
