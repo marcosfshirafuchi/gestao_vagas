@@ -24,6 +24,7 @@ C:\Users\famil\Documents\gestao_vagas-main\src\main\java\br\com\marcosshirafuchi
 C:\Users\famil\Documents\gestao_vagas-main\src\main\java\br\com\marcosshirafuchi\gestao_vagas\modules\company\controllers\CompanyController.java
 C:\Users\famil\Documents\gestao_vagas-main\src\main\java\br\com\marcosshirafuchi\gestao_vagas\modules\company\repositories\JobRepository.java
 C:\Users\famil\Documents\gestao_vagas-main\src\main\java\br\com\marcosshirafuchi\gestao_vagas\modules\company\useCases\CreateJobUseCase.java
+C:\Users\famil\Documents\gestao_vagas-main\src\main\java\br\com\marcosshirafuchi\gestao_vagas\modules\company\dto\AuthCompanyResponseDTO.java
 C:\Users\famil\Documents\gestao_vagas-main\src\main\java\br\com\marcosshirafuchi\gestao_vagas\modules\company\useCases\ProfileCandidateUseCase.java
 C:\Users\famil\Documents\gestao_vagas-main\src\main\java\br\com\marcosshirafuchi\gestao_vagas\providers\JWTCandidateProvider.java
 C:\Users\famil\Documents\gestao_vagas-main\src\main\java\br\com\marcosshirafuchi\gestao_vagas\modules\candidate\useCases\AuthCandidateUseCase.java

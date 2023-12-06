@@ -16,7 +16,7 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.validation.Valid;
 
 @RestController
-@RequestMapping("/company/job")
+@RequestMapping("/company/job/")
 public class JobController {
 
     @Autowired

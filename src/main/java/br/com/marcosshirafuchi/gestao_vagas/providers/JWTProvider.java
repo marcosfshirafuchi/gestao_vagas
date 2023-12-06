@@ -10,7 +10,7 @@ import com.auth0.jwt.interfaces.DecodedJWT;
 
 @Service
 public class JWTProvider {
-    @Value("security.token.secret")
+    @Value("${security.token.secret}")
     private String secretkey;
 
     public DecodedJWT validateToken(String token){
